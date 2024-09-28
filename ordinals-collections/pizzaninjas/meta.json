@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "description": "",
+    "avatar": "",
+    "tags": [],
+    "socials": {
+        "x": "ninjalerts",
+        "discord": "ninjalerts",
+        "website": "https://ninjalerts.gitbook.io/"
+    },
+    "sat_range":
+    {
+        "min": 56122947,
+        "max": 56275803
+    },
+    "inscription_ids": [
+        "650fe4b0abc458836ef869906afbed7c306b1f948a4b3e9412812a7f83900033i124",
+        "fd9e4f52b0017d11e5e0541c252505a62b8d89a3412cfeca584aadedffe2d77bi49"
+    ]
+}
